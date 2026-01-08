@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Dishes = () => {
+const Cart = () => {
   return (
     <div>
-      DISHES
+      CART
     </div>
   )
 }
 
-export default Dishes
+export default Cart
